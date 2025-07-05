@@ -1,7 +1,5 @@
 pandas
 numpy
-scikit-learn 
+scikit-learn
 nltk
 streamlit
-pickle
-ast
